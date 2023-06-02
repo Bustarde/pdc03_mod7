@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\PDC03_Mod7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\PDC03_Mod7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\View\AddEmployee.xaml.g.cs
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\View\ShowEmployeePage.xaml.g.cs
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\PDC03_Mod7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\PDC03_Mod7.AssemblyInfo.cs
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\PDC03_Mod7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\bin\Debug\netstandard2.1\PDC03_Mod7.deps.json
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\bin\Debug\netstandard2.1\PDC03_Mod7.dll
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\bin\Debug\netstandard2.1\PDC03_Mod7.pdb
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\PDC03_Mod7.dll
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\refint\PDC03_Mod7.dll
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\PDC03_Mod7.pdb
+C:\Users\User\source\repos\PDC03_Mod7\PDC03_Mod7\PDC03_Mod7\obj\Debug\netstandard2.1\ref\PDC03_Mod7.dll
